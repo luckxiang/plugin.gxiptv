@@ -1,0 +1,14 @@
+{
+ "type": "ecmascript",
+  "id": "gxiptv",
+  "file": "gxiptv.js",
+  "category": "tv",
+  "showtimeVersion": "0.0.1",
+  "version": "0.0.2",
+  "author": "LuckXiang (@luckxiang)",
+  "title": "GX IPTV",
+  "icon": "iptv.bmp",
+  "synopsis": "for test iptv",
+  "description":"<p>just for test movian plugin api.</p>",
+  "homepage":"https://github.com/luckxiang"
+}
