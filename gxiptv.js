@@ -57,7 +57,8 @@ var xml = require('showtime/xml');
     plugin.addURI(PLUGIN_PREFIX+"channel:(.*)", function(page, url) {
         var videoParams = {
         sources: [{
-                url: url,
+                //url: url,
+            url: "http://v.cctv.com/flash//jingjibanxiaoshi/2008/09/jingjibanxiaoshi_300_20080919_1.flv",
           }],
         no_subtitle_scan: true,
         subtitles: []      
